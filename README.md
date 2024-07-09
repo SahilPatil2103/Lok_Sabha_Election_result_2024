@@ -3,25 +3,25 @@ The dashboard provides an interactive and comprehensive view of the election res
 
 The dashboard consists of 10 insights-
 
-a. A pie chart showing count of winnig party by state
+a.  A pie chart showing count of winnig party by state
 
-b. A slicer of constituency, leading party, leading candidate
+b.  A slicer of constituency, leading party, leading candidate
 
-c. A grapgh showing count of margin votes by winning team
+c.  A grapgh showing count of margin votes by winning team
 
-d. A slicer of constituency, trailing party, trailing candidate
+d.  A slicer of constituency, trailing party, trailing candidate
 
-e. A table showing the winning parties and its winning candidates
+e.  A table showing the winning parties and its winning candidates
 
-f. A pie chart showing count of leading party by leading party
+f.  A pie chart showing count of leading party by leading party
 
-g. A grapgh showing sum of evm votes by parties
+g.  A grapgh showing sum of evm votes by parties
 
-h. A grapgh showing count of margin votes by runner-up parties
+h.  A grapgh showing count of margin votes by runner-up parties
 
-i. A table showing state and the sum of total votes
+i.  A table showing state and the sum of total votes
 
-j. A pie chart showing count of margin votes by winning party
+j.  A pie chart showing count of margin votes by winning party
 
     
 This project shows- 
